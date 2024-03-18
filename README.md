@@ -1,6 +1,6 @@
-ManageBankAccounts-API
+# ManageBankAccounts-API
 
-Summary:
+## Summary:
 
 This project, "ManageBankAccounts-API," is a Spring Boot microservice designed for managing bank accounts. It includes the following features:
 
@@ -20,5 +20,5 @@ This project, "ManageBankAccounts-API," is a Spring Boot microservice designed f
 
 ⦁ Tools: Utilizes Spring Boot 3, Java 17, REST, Validation, PostgreSQL, DTO (MapStruct), JUnit 5, Mockito, OpenAPI, Maven and Lombok.
 
-Communication with Frontend:
+## Communication with Frontend:
 This backend microservice seamlessly communicates with the ManageBankAccounts-Angular frontend project to facilitate bank account management operations.
