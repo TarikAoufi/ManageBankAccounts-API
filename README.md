@@ -24,3 +24,4 @@ This project, "ManageBankAccounts-API," is a Spring Boot microservice designed f
 ## Communication with Frontend:
 
 This backend microservice seamlessly communicates with the ManageBankAccounts-Angular frontend project to facilitate bank account management operations.
+
